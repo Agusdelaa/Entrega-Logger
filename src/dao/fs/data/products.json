@@ -1,0 +1,36 @@
+[
+    
+    {
+        "_id": 1,
+        "title": "Product A",
+        "description": "decription A",
+        "code": "AU001",
+        "price": 100,
+        "status": true,
+        "stock": 10,
+        "category": "A",
+        "thumbnails": ["Image1, Image2"]
+    },
+    {
+        "_id": 2,
+        "title": "Product B",
+        "description": "decription B",
+        "code": "AU002",
+        "price": 100,
+        "status": true,
+        "stock": 10,
+        "category": "B",
+        "thumbnails": ["Image1, Image2"]
+    },
+    {
+        "_id": 3,
+        "title": "Product C",
+        "description": "decription C",
+        "code": "AU003",
+        "price": 100,
+        "status": true,
+        "stock": 10,
+        "category": "C",
+        "thumbnails": ["Image1, Image2"]
+    } 
+]
